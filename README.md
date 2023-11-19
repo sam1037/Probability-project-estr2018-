@@ -1,4 +1,4 @@
-#This is a git repo for the probability project about Dream's cheating for the course ESTR2018
+# This is a git repo for the probability project about Dream's cheating for the course ESTR2018
 
 version of python: 3.8
 
